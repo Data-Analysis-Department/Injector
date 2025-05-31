@@ -4,3 +4,5 @@ build-vscode
 .vs
 .git
 .venv
+.idea
+output
